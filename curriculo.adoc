@@ -20,5 +20,4 @@ Analista e desenvolvedor de sistemas. Sempre pesquisando e aprendendo. Compartil
 * Modelagem e implementação com TDD e DDD
 * Análise e levantamento de requisitos
 * Adminitração Middleware
-** Oracle Weblogic 11g e 12c
-** Red Hat JBoss EAP 6.2 e 7.0
+

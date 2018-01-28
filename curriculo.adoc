@@ -10,7 +10,8 @@ Analista e desenvolvedor de sistemas. Sempre pesquisando e aprendendo. Compartil
 
 === Secretaria e Estado de Fazenda e Planejamento - RJ
 ==== Desenvolvedor Java e PL/SQL
-04/2013 - presente
+04/2013 - presente:
+
 * JavaEE, Spring, Apache Beehive, JPA e Hibernate
 * JSP, JSF (Richfaces e Primefaces)
 * Angular.js com Bootstrap
@@ -20,4 +21,5 @@ Analista e desenvolvedor de sistemas. Sempre pesquisando e aprendendo. Compartil
 * Modelagem e implementação com TDD e DDD
 * Análise e levantamento de requisitos
 * Adminitração Middleware
-
+** Oracle Weblogic 11g e 12c
+** Red Hat JBoss EAP 6.2 e 7.0

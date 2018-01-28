@@ -23,3 +23,25 @@ Analista e desenvolvedor de sistemas. Sempre pesquisando e aprendendo. Compartil
 * Adminitração Middleware
 ** Oracle Weblogic 11g e 12c
 ** Red Hat JBoss EAP 6.2 e 7.0
+
+=== Instituto Nacional de Propriedade Industrial (INPI)
+==== Desenvolvedor Java e PHP
+11/2012 - 03/2013:
+
+* JavaEE e JSP
+* Aplicação PHP e banco MySQL
+* JQuery
+* Análise e levantamento de requisitos
+
+=== PHCFoco
+==== Desenvolvedor PHP
+02/2011 - 12-2011
+* Desenvolvimento de sistema de pesquisa para setor de saúde ambiental
+* PHP 5 e MySQL
+* JQuery e JQueryUI
+
+=== Editora Ciência Moderna
+05/2010 - 01/2011
+* Desenvolvimento e manutenção E-Commerce em PHP
+* Reformulação do site http://www.lcm.com.br
+** Implementação utilizando Framework jfox-php-framework. https://github.com/cjuniorfox/jfox-php-framework desenvolvido por mim.

@@ -35,13 +35,15 @@ Analista e desenvolvedor de sistemas. Sempre pesquisando e aprendendo. Compartil
 
 === PHCFoco
 ==== Desenvolvedor PHP
-02/2011 - 12-2011
+02/2011 - 12-2011:
+
 * Desenvolvimento de sistema de pesquisa para setor de saúde ambiental
 * PHP 5 e MySQL
 * JQuery e JQueryUI
 
 === Editora Ciência Moderna
-05/2010 - 01/2011
+05/2010 - 01/2011: 
+
 * Desenvolvimento e manutenção E-Commerce em PHP
 * Reformulação do site http://www.lcm.com.br
 ** Implementação utilizando Framework jfox-php-framework. https://github.com/cjuniorfox/jfox-php-framework desenvolvido por mim.

@@ -44,6 +44,8 @@ Analista e desenvolvedor de sistemas. Sempre pesquisando e aprendendo. Compartil
 === Editora Ciência Moderna
 05/2010 - 01/2011: 
 
-* Desenvolvimento e manutenção E-Commerce em PHP
+* Administração do servidor de E-Books da Editora com Ubuntu Server, Tomcat e Adobe Content Server.
+* Desenvolvimento e manutenção E-Commerce em PHP e MySQL
 * Reformulação do site http://www.lcm.com.br
-** Implementação utilizando Framework jfox-php-framework. https://github.com/cjuniorfox/jfox-php-framework desenvolvido por mim.
+* Implementação utilizando Framework jfox-php-framework. https://github.com/cjuniorfox/jfox-php-framework
+Com as boas relações com os gestores da empresa, sou responsável até o presente da manutenção do site e administração do servidor de E-Books.

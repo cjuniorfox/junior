@@ -2,4 +2,8 @@
 <cjuniorfox@gmail.com>
 
 [%hardbreaks]
-Tecnico em manutenção e desenvolvedor. Estudioso pela área de tecnologia
+Tecnico em manutenção e desenvolvedor. Pesquisador, estudioso e curioso pela área de tecnologia.
+
+:icons:  font
+
+== Experiência Recente

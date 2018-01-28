@@ -2,8 +2,23 @@
 <cjuniorfox@gmail.com>
 
 [%hardbreaks]
-Tecnico em manutenção e desenvolvedor. Pesquisador, estudioso e curioso pela área de tecnologia.
+Analista e desenvolvedor de sistemas. Sempre pesquisando e aprendendo. Compartilhando experiências.
 
 :icons:  font
 
-== Experiência Recente
+== Experiência
+
+=== Secretaria e Estado de Fazenda e Planejamento - RJ
+==== Desenvolvedor Java e PL/SQL
+04/2013 - presente
+* JavaEE, Spring, Apache Beehive, JPA e Hibernate
+* JSP, JSF (Richfaces e Primefaces)
+* Angular.js com Bootstrap
+* API Rest com JSON e SOAP
+* Banco de dados Oracle 11g
+* Desenvolvimento PL/SQL e modelagem de dados
+* Modelagem e implementação com TDD e DDD
+* Análise e levantamento de requisitos
+* Adminitração Middleware
+** Oracle Weblogic 11g e 12c
+** Red Hat JBoss EAP 6.2 e 7.0

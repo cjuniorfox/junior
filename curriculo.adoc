@@ -112,7 +112,7 @@ para acelerar e facilitar o desenvolvimento de aplicações e websites. Sites qu
 2002
 
 === Colégio São Gonçalo -- São Gonçalo, RJ
-==== Ensino médio tecnico em processamento de dados
+==== Ensino médio técnico em processamento de dados
 2000 -- 2002
 
 === Códigos de exemplo

@@ -105,7 +105,7 @@ para acelerar e facilitar o desenvolvimento de aplicações e websites. Sites qu
 
 === Faculdade CEDERJ (UFF/UFRJ) -- Niterói, RJ
 ==== Ensino superior em Ciência da computação
-2011 -- 2014
+2011 - 2014
 
 === Sesc (Microsoft Technet) -- Rio de Janeiro, RJ
 ==== Curso programação C#
@@ -117,7 +117,7 @@ para acelerar e facilitar o desenvolvimento de aplicações e websites. Sites qu
 
 === Colégio São Gonçalo -- São Gonçalo, RJ
 ==== Ensino médio técnico em processamento de dados
-2000 -- 2002
+2000 - 2002
 
 === Códigos de exemplo
 

@@ -1,0 +1,131 @@
+= Carlos Mendes Junior
+
+[%hardbreaks]
+cjuniorfox@gmail.com
++55 (21) 99610-9042 / +55 (21) 3492-6877
+Niterói, RJ
+
+[%hardbreaks]
+Analista, desenvolvedor de sistemas e administrador de rede. 
+Busco sempre expandir meus conhecimentos e dividir experiências.
+
+:icons:  font
+
+== Experiências
+
+=== Secretaria e Estado de Fazenda e Planejamento (SEFAZ-RJ) -- Rio de Janeiro, RJ
+==== Desenvolvedor Java e PL/SQL
+04/2013 - presente
+
+* JavaEE, Spring, Apache Beehive, JPA e Hibernate
+* JSP, JSF (Richfaces e Primefaces)
+* Angular.js com Bootstrap
+* API Rest com JSON e SOAP
+* Banco de dados Oracle 11g
+* Desenvolvimento PL/SQL e modelagem de dados
+* Modelagem e implementação com TDD e DDD
+* Análise e levantamento de requisitos
+* Adminitração Middleware
+** Oracle Weblogic 11g e 12c
+** Red Hat JBoss EAP 6.2 e 7.0
+
+=== Instituto Nacional de Propriedade Industrial (INPI) -- Rio de Janeiro, RJ
+==== Desenvolvedor Java e PHP
+11/2012 - 03/2013
+
+* JavaEE e JSP
+* Aplicação PHP e banco MySQL
+* JQuery
+* Análise e levantamento de requisitos
+
+=== PHCFoco -- Rio de Janeiro, RJ
+==== Desenvolvedor PHP
+02/2011 - 12-2011
+
+* Trabalho em regime de Home Office
+* Desenvolvimento de sistema de pesquisa para setor de saúde ambiental
+* PHP 5 e MySQL
+* JQuery e JQueryUI
+
+=== Editora Ciência Moderna
+==== Desenvolvedor PHP e Middleware
+05/2010 - 01/2011: 
+
+* Administração do servidor de E-Books da Editora com Ubuntu Server, Tomcat e Adobe Content Server.
+* Desenvolvimento e manutenção E-Commerce em PHP e MySQL
+* Reformulação do site http://www.lcm.com.br
+* Implementação utilizando Framework jfox-php-framework. https://github.com/cjuniorfox/jfox-php-framework
+Com as boas relações com os gestores da empresa, sou responsável até o presente da 
+manutenção do site e administração do servidor de E-Books.
+
+=== Datacorpore
+==== Desenvolvedor PHP
+01/2010 - 03/2010
+
+* Desenvolvimento de software de métrica de rede (velocidade, tempo de ping, DNS reverso)
+em PHP.
+* Manutenção de aplicação de gerenciamento de consumo e controle de PABX virtual para VoIP.
+
+=== Allen Informática
+==== Coordenador e Técnico Service Desk
+03/2007 - 12/2009
+
+* Service Desk a empresas ligadas a área de educação -PUC-RJ e Cultura Inglesa-, e Sony Music
+* Suporte de 3º nível em cliente e apoio a 2º e 1º nível
+* Coordenação de equipe de Service Desk 2º nível
+* Manutenção de equipamentos especiais voltados para área da educação. (Quadro E-Board e afins)
+* Administração de servidor Windows Server 2003 (Domínio, Active Directory)
+* Automatização de processo de atualização de aplicações e material didático entre as filiais do curso Cultura Inglesa
+
+=== Sergio Ronaldo Fotografias
+==== Designer gráfico, Webdesigner e manutenção de computadores
+03/2005 - 11/2006
+
+* Designer gráfico com Photoshop e Corel Draw
+* Administração servidores de arquivos em Windows e servidor FTP
+* Administração de servidor de fotos
+* Desenvolvimento de site e aplicação de publicação de fotos online
+
+=== Força 13 Informática
+==== Tecnico em montagem e manutenção de computadores
+01/2004 - 02/2005
+
+* Venda e montagem de computadores e componentes para impressoras
+* Suporte técnico ao cliente
+
+== Outras experiências
+
+Desenvolvi um framework em PHP (jfox-php-framework) https://github.com/cjuniorfox/jfox-php-framework 
+para acelerar e facilitar o desenvolvimento de aplicações e websites. Sites que utilizam o framework:
+
+* Editora Ciência Moderna http://www.lcm.com.br
+* MCA Estudio http://www.mcaestudio.com.br
+
+== Formação
+
+=== Faculdade CEDERJ (UFF/UFRJ) -- Niterói, RJ
+==== Ensino superior em Ciência da computação
+2011 - 2014
+
+=== Sesc (Microsoft Technet) -- Rio de Janeiro, RJ
+==== Curso programação C#
+2008
+
+=== PUC-RJ -- Rio de Janeiro, RJ
+==== Curso Desenvolvimento Delphi
+2002
+
+=== Colégio São Gonçalo -- São Gonçalo, RJ
+==== Ensino médio técnico em processamento de dados
+2000 - 2002
+
+=== Códigos de exemplo
+
+[%hardbreaks]
+https://github.com/cjuniorfox/jfox-php-framework 
+
+=== Sites em produção desenvolvidos
+
+[%hardbreaks]
+http://www.lcm.com.br
+http://www.mcaestudio.com.br

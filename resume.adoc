@@ -6,125 +6,115 @@ cjuniorfox@gmail.com
 Niterói, RJ
 
 [%hardbreaks]
-Analista, desenvolvedor de sistemas e administrador de rede. 
-Busco sempre expandir meus conhecimentos e dividir experiências.
+IT Analyst, Java Developer. 
+Seek to expand my knoledge and share experiences.
 
 :icons:  font
 
-== Experiências
+== Expenrience
 
 === Secretaria e Estado de Fazenda e Planejamento (SEFAZ-RJ) -- Rio de Janeiro, RJ
-==== Desenvolvedor Java e PL/SQL
-04/2013 - presente
+==== Java Develope
+04/2013 - present
 
-* JavaEE, Spring, Apache Beehive, JPA e Hibernate
-* JSP, JSF (Richfaces e Primefaces)
-* Angular.js com Bootstrap
-* API Rest com JSON e SOAP
-* Banco de dados Oracle 11g
-* Desenvolvimento PL/SQL e modelagem de dados
-* Modelagem e implementação com TDD e DDD
-* Análise e levantamento de requisitos
-* Adminitração Middleware
-** Oracle Weblogic 11g e 12c
-** Red Hat JBoss EAP 6.2 e 7.0
+* JavaEE, Spring, Apache Beehive, JPA and Hibernate
+* JSP, JSF (Richfaces and Primefaces)
+* Angular.js with Bootstrap
+* API Rest with JSON
+* SOAP Web service
+* Oracle 11g database
+* PL/SQL development and data modeling 
+* TDD and DDD
+* Middleware administration
+** Oracle Weblogic
+** Red Hat JBoss EAP
 
 === Instituto Nacional de Propriedade Industrial (INPI) -- Rio de Janeiro, RJ
-==== Desenvolvedor Java e PHP
+==== Java and PHP Developer
 11/2012 - 03/2013
 
-* JavaEE e JSP
-* Aplicação PHP e banco MySQL
+* JavaEE with JSP
+* PHP based Website and MySQL
 * JQuery
-* Análise e levantamento de requisitos
 
 === PHCFoco -- Rio de Janeiro, RJ
-==== Desenvolvedor PHP
+==== PHP Developer
 02/2011 - 12-2011
 
-* Trabalho em regime de Home Office
-* Desenvolvimento de sistema de pesquisa para setor de saúde ambiental
-* PHP 5 e MySQL
-* JQuery e JQueryUI
+* Home office scheme
+* I worked on the development of research systems in the area of environmental health
+* PHP 5 and MySQL
+* JQuery and JQueryUI
+* Use of https://github.com/cjuniorfox/jfox-php-framework[jfox-php-framework] into some system modules
 
 === Editora Ciência Moderna
-==== Desenvolvedor PHP e Middleware
+==== PHP Developer e Middleware manager
 05/2010 - 01/2011: 
 
-* Administração do servidor de E-Books da Editora com Ubuntu Server, Tomcat e Adobe Content Server.
-* Desenvolvimento e manutenção E-Commerce em PHP e MySQL
-* Reformulação do site http://www.lcm.com.br
-* Implementação utilizando Framework jfox-php-framework. https://github.com/cjuniorfox/jfox-php-framework
-Com as boas relações com os gestores da empresa, sou responsável até o presente da 
-manutenção do site e administração do servidor de E-Books.
+* Management of EBook content server based on Adobe® CS and Tomcat middleware
+* E-commerce site development
+* Website redesing http://www.lcm.com.br
+* Use of framework https://github.com/cjuniorfox/jfox-php-framework[jfox-php-framework] to develop site and some administrator modules 
+
+_Because the good relationship I keep with my former employers, I still responsible to maintenance both website and content server._
 
 === Datacorpore
-==== Desenvolvedor PHP
+==== PHP Developer
 01/2010 - 03/2010
 
-* Desenvolvimento de software de métrica de rede (velocidade, tempo de ping, DNS reverso)
-em PHP.
-* Manutenção de aplicação de gerenciamento de consumo e controle de PABX virtual para VoIP.
+* I worked on PHP application development for network metrics, to measure speed, ping, reverse DNS testing  
+* Development of the VoIP billing and management panel
 
 === Allen Informática
-==== Coordenador e Técnico Service Desk
+==== Service Desk's computer technician
 03/2007 - 12/2009
 
-* Service Desk a empresas ligadas a área de educação -PUC-RJ e Cultura Inglesa-, e Sony Music
-* Suporte de 3º nível em cliente e apoio a 2º e 1º nível
-* Coordenação de equipe de Service Desk 2º nível
-* Manutenção de equipamentos especiais voltados para área da educação. (Quadro E-Board e afins)
-* Administração de servidor Windows Server 2003 (Domínio, Active Directory)
-* Automatização de processo de atualização de aplicações e material didático entre as filiais do curso Cultura Inglesa
+* Assistance to companies from education area (PUC-RJ and Cultura Inglesa)
+* Assistance to Brazilian affiliates of Sony Music Records
+* 3rd and 2nd level computer user support
+* Coordination of 2nd level Service Desk staff
+* Maintenance of special equipments for education
+* Windows Server 2003 administration (Domain  and Active Directory)
+* Automatization of didactic material update process
 
 === Sergio Ronaldo Fotografias
-==== Designer gráfico, Webdesigner e manutenção de computadores
+==== Designer, Webdesigner and computer mainteance
 03/2005 - 11/2006
 
-* Designer gráfico com Photoshop e Corel Draw
-* Administração servidores de arquivos em Windows e servidor FTP
-* Administração de servidor de fotos
-* Desenvolvimento de site e aplicação de publicação de fotos online
+* Designer with Photoshop and Corel Draw
+* File and content server administration 
 
-=== Força 13 Informática
-==== Tecnico em montagem e manutenção de computadores
-01/2004 - 02/2005
+== Another Experiences
 
-* Venda e montagem de computadores e componentes para impressoras
-* Suporte técnico ao cliente
-
-== Outras experiências
-
-Desenvolvi um framework em PHP (jfox-php-framework) https://github.com/cjuniorfox/jfox-php-framework 
-para acelerar e facilitar o desenvolvimento de aplicações e websites. Sites que utilizam o framework:
+I developed the PHP framework (jfox-php-framework) https://github.com/cjuniorfox/jfox-php-framework to speed up and made application and website developement easier. Sites developed with framework:
 
 * Editora Ciência Moderna http://www.lcm.com.br
 * MCA Estudio http://www.mcaestudio.com.br
 
-== Formação
+== Formation
 
-=== Faculdade CEDERJ (UFF/UFRJ) -- Niterói, RJ
-==== Ensino superior em Ciência da computação
+=== CEDERJ University (UFF/UFRJ) -- Niterói, RJ
+==== Higher education into Computer Science
 2011 - 2014
 
 === Sesc (Microsoft Technet) -- Rio de Janeiro, RJ
-==== Curso programação C#
+==== C# Programming Course
 2008
 
 === PUC-RJ -- Rio de Janeiro, RJ
-==== Curso Desenvolvimento Delphi
+==== Boland Delphi Programming Course
 2002
 
 === Colégio São Gonçalo -- São Gonçalo, RJ
-==== Ensino médio técnico em processamento de dados
+==== Technical High School in Data Processing
 2000 - 2002
 
-=== Códigos de exemplo
+=== Example Codes
 
 [%hardbreaks]
 https://github.com/cjuniorfox/jfox-php-framework 
 
-=== Sites em produção desenvolvidos
+=== Developed production websites
 
 [%hardbreaks]
 http://www.lcm.com.br

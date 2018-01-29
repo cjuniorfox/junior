@@ -2,7 +2,7 @@
 <cjuniorfox@gmail.com>
 
 [%hardbreaks]
-Analista e desenvolvedor de sistemas e administrador de rede. 
+Analista, desenvolvedor de sistemas e administrador de rede. 
 Busco sempre expandir meus conhecimentos e dividir experiências.
 
 :icons:  font

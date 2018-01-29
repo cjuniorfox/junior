@@ -91,6 +91,7 @@ em PHP.
 
 Desenvolvi um framework em PHP (jfox-php-framework) https://github.com/cjuniorfox/jfox-php-framework 
 para acelerar e facilitar o desenvolvimento de aplicações e websites. Sites que utilizam o framework
+
 * Editora Ciência Moderna http://www.lcm.com.br
 * MCA Estudio http://www.mcaestudio.com.br
 

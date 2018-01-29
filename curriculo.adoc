@@ -66,7 +66,7 @@ em PHP.
 ==== Coordenador e Técnico Service Desk
 03/2007 - 12/2009
 
-* Service Desk a empresas ligadas a área de educação (PUC-RJ e Cultura Inglesa) e Sony Music
+* Service Desk a empresas ligadas a área de educação -PUC-RJ e Cultura Inglesa-, e Sony Music
 * Suporte de 3º nível em cliente e apoio a 2º e 1º nível
 * Coordenação de equipe de Service Desk 2º nível
 * Manutenção de equipamentos especiais voltados para área da educação. (Quadro E-Board e afins)

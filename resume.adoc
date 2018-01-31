@@ -11,7 +11,7 @@ Seek to expand my knoledge and share experiences.
 
 :icons:  font
 
-== Expenrience
+== Experience
 
 === Secretaria e Estado de Fazenda e Planejamento (SEFAZ-RJ) -- Rio de Janeiro, RJ
 ==== Java Develope
@@ -27,7 +27,7 @@ Seek to expand my knoledge and share experiences.
 * TDD and DDD
 * Middleware administration
 ** Oracle Weblogic
-** Red Hat JBoss EAP
+** Red Hat JBoss EAP (6.2 and 7.0)
 
 === Instituto Nacional de Propriedade Industrial (INPI) -- Rio de Janeiro, RJ
 ==== Java and PHP Developer
@@ -49,14 +49,14 @@ Seek to expand my knoledge and share experiences.
 
 === Editora Ciência Moderna
 ==== PHP Developer e Middleware manager
-05/2010 - 01/2011: 
+05/2010 - present: 
 
 * Management of EBook content server based on Adobe® CS and Tomcat middleware
 * E-commerce site development
-* Website redesing http://www.lcm.com.br
+* Website Redesign http://www.lcm.com.br
 * Use of framework https://github.com/cjuniorfox/jfox-php-framework[jfox-php-framework] to develop site and some administrator modules 
 
-_Because the good relationship I keep with my former employers, I still responsible to maintenance both website and content server._
+_Due the good relationship I keep with my former employers, I am still responsible for the maintenance of both website and content server._
 
 === Datacorpore
 ==== PHP Developer
@@ -86,7 +86,9 @@ _Because the good relationship I keep with my former employers, I still responsi
 
 == Another Experiences
 
-I developed the PHP framework (jfox-php-framework) https://github.com/cjuniorfox/jfox-php-framework to speed up and made application and website developement easier. Sites developed with framework:
+I developed the PHP framework (jfox-php-framework) https://github.com/cjuniorfox/jfox-php-framework to improve the performance of applications and facilitate website developement. 
+
+Sites developed with framework:
 
 * Editora Ciência Moderna http://www.lcm.com.br
 * MCA Estudio http://www.mcaestudio.com.br

@@ -15,7 +15,7 @@ Busco expandir meus conhecimentos e compartilhar experiências.
 
 === Secretaria e Estado de Fazenda e Planejamento (SEFAZ-RJ) -- Rio de Janeiro, RJ
 ==== Desenvolvedor Java
-04/2013 - present
+04/2013 - presente
 
 * JavaEE, Spring, Apache Beehive, JPA e Hibernate
 * JSP, JSF (Richfaces e Primefaces)
@@ -49,7 +49,7 @@ Busco expandir meus conhecimentos e compartilhar experiências.
 
 === Editora Ciência Moderna
 ==== Desenvolvedor PHP e Administrador Middleware
-05/2010 - present:
+05/2010 - presente
 
 * Administração de Content Server (Adobe® CS) e middleware Tomcat
 * Desenolvimento de aplicação E-commerce

@@ -27,7 +27,7 @@ Busco expandir meus conhecimentos e compartilhar experiências.
 ** Banco de dados Oracle SQL
 ** ETL e geração de arquivos de remessa
 ** Análise e levantamento de requisitos
-* Parcelamento de débitos fazendários
+* *Parcelamento de débitos fazendários*
 ** Sustentação sistema Delphi legado
 ** Modelagem e implementação PL/SQL
 ** Implementação módulo Java para parcelamento de imposto IPVA 
@@ -64,7 +64,7 @@ Busco expandir meus conhecimentos e compartilhar experiências.
 *** Rotinas PL/SQL, ETL.
 *** Jobs Shellscript e uso de SQL*Loader e SQLPlus
 ** Integração contínua em SVN e Jobs Jenkins com testes unitários
-* SINCAD -- Sistema Estadual de Cadastro de Contribuíntes
+* *SINCAD -- Sistema Estadual de Cadastro de Contribuíntes*
 ** Java EE com JSF / RichFaces
 * Outras tecnologias
 ** Red Hat Enterprise Linux 7

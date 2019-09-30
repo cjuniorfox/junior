@@ -39,7 +39,7 @@ Busco expandir meus conhecimentos e compartilhar experiências.
 *** JSP/netUI 
 *** JQuery e Ajax com DWR -- Directed Web Remoting
 *** Webservice SOAP 1.1
-*** Migração Arquitetura de Oracle Workshop para Maven
+*** Migração do projeto de Oracle Workshop para Maven
 *** Migração backend para Spring JDBC
 *** Sustentação e refatoração de código Oracle PL/SQL
 ** Modelagem nova versão (GCT 2.0) baseada em Domain Driver Design

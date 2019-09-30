@@ -13,7 +13,7 @@ Busco expandir meus conhecimentos e compartilhar experiências.
 
 == Experiência
 
-=== Secretaria e Estado de Fazenda e Planejamento (SEFAZ-RJ) -- Rio de Janeiro, RJ
+=== Secretaria de Estado de Fazenda (SEFAZ-RJ) -- Rio de Janeiro, RJ
 ==== Desenvolvedor Java
 04/2013 - presente
 

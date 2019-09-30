@@ -17,8 +17,58 @@ Busco expandir meus conhecimentos e compartilhar experiências.
 ==== Desenvolvedor Java
 04/2013 - presente
 
-* JavaEE, Spring, Apache Beehive, JPA e Hibernate
-* JSP, JSF (Richfaces e Primefaces)
+===== Projetos
+
+* *AIC (Sistema de gestão de autos de infração por sonegação fiscal)*
+** Sustentação sistema legado Delphi 7
+** Implementação nova legislação (lei estadual 6.357/2012)
+** Implementação lei mais benéfica federal
+** Rotinas PL/SQL
+** Banco de dados Oracle SQL
+** ETL e geração de arquivos de remessa
+** Análise e levantamento de requisitos
+* Parcelamento de débitos fazendários
+** Sustentação sistema Delphi legado
+** Modelagem e implementação PL/SQL
+** Implementação módulo Java para parcelamento de imposto IPVA 
+*** Backend: Spring JDBC. 
+*** Frontend: JSF/ Primefaces)
+* *GCT - Gestor de Crédito Tributário*
+** Sustentação sistema legado Java 6
+*** Apache Beehive 
+*** JSP/netUI 
+*** JQuery e Ajax com DWR -- Directed Web Remoting
+*** Webservice SOAP 1.1
+*** Migração Arquitetura de Oracle Workshop para Maven.
+*** Migração backend para Spring JDBC.
+*** Sustentação e refatoração de código Oracle PL/SQL.
+** Modelagem nova versão (GCT 2.0) baseada em Domain Driver Design.
+** Implementação nova versão (GCT 2.0) 
+*** Backend: Springboot 1.5.4 -- Spring JPA
+*** Serviços API Rest JSON com Codehaus Jackson
+*** Frontend com Angular 6.
+** Integração portal de pagamentos GNRE - Pernambuco (Guia recolhimentos estaduais) em SOAP 1.1
+** ETL de pagamentos bancários.
+** PL/SQL para controle repasses financeiros
+** Rotinas Shellscript integradas com Oracle SQLPlus e SQL*Loader
+** Sustentação e manutenção de rotinas via Jenkins
+** Integração contínua utilizando Jenkins e SVN e testes unitários
+** Servidor de aplicação
+*** GCT Legado: Weblogic 12 
+*** GCT 2.0: Weblogic 12 e JBoss EAP 7.1
+* *Fisco Fácil -- Sistema de Autorregularização fiscal*
+** Projeto Java e Oracle PL/SQL
+*** Frontend: JSF 2.2 e Primefaces 6.1
+*** Backend: Framework proprietário (Sefazwork) com Hibenate 5.0
+** Malhas fiscais
+*** Rotinas PL/SQL, ETL.
+*** Jobs Shellscript e uso de SQL*Loader e SQLPlus
+** Integração contínua em SVN e Jobs Jenkins com testes unitários
+* SINCAD -- Sistema Estadual de Cadastro de Contribuíntes
+** Rotinas PL/SQL
+** Java Maven
+*** Java EE com JSF / RichFaces
+JSP, JSF (Richfaces e Primefaces)
 * Angular (Com Bootstrap, PrimeNG)
 * API Rest com JSON
 * SOAP Web service

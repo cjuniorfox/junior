@@ -19,7 +19,7 @@ Busco expandir meus conhecimentos e compartilhar experiências.
 
 * JavaEE, Spring, Apache Beehive, JPA e Hibernate
 * JSP, JSF (Richfaces e Primefaces)
-* Angular.js com Bootstrap
+* Angular (Com Bootstrap, PrimeNG)
 * API Rest com JSON
 * SOAP Web service
 * Banco de dados Oracle 11g

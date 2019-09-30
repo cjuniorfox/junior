@@ -46,7 +46,7 @@ Busco expandir meus conhecimentos e compartilhar experiências.
 ** Implementação nova versão (GCT 2.0) 
 *** Backend: Springboot 1.5.4 -- Spring JPA
 *** Serviços API Rest JSON com Codehaus Jackson
-*** Frontend com Angular 6.
+*** Frontend com Angular 6. Bootstrap e PrimeNG
 ** Integração portal de pagamentos GNRE - Pernambuco (Guia recolhimentos estaduais) em SOAP 1.1
 ** ETL de pagamentos bancários.
 ** PL/SQL para controle repasses financeiros
@@ -54,7 +54,7 @@ Busco expandir meus conhecimentos e compartilhar experiências.
 ** Sustentação e manutenção de rotinas via Jenkins
 ** Integração contínua utilizando Jenkins e SVN e testes unitários
 ** Servidor de aplicação
-*** GCT Legado: Weblogic 12 
+*** GCT Legado: Weblogic 12c
 *** GCT 2.0: Weblogic 12 e JBoss EAP 7.1
 * *Fisco Fácil -- Sistema de Autorregularização fiscal*
 ** Projeto Java e Oracle PL/SQL
@@ -65,27 +65,24 @@ Busco expandir meus conhecimentos e compartilhar experiências.
 *** Jobs Shellscript e uso de SQL*Loader e SQLPlus
 ** Integração contínua em SVN e Jobs Jenkins com testes unitários
 * SINCAD -- Sistema Estadual de Cadastro de Contribuíntes
-** Rotinas PL/SQL
-** Java Maven
-*** Java EE com JSF / RichFaces
-JSP, JSF (Richfaces e Primefaces)
-* Angular (Com Bootstrap, PrimeNG)
-* API Rest com JSON
-* SOAP Web service
-* Banco de dados Oracle 11g
-* Desenvolvimento PL/SQL e modelagem de dados
-* TDD e DDD
-* Administração de Middleware
-** Oracle Weblogic
-** Red Hat JBoss EAP (6.2 e 7.0)
+** Java EE com JSF / RichFaces
+* Outras tecnologias
+** Red Hat Enterprise Linux 7
+** Middleware JBoss 6/ 7 e Weblogic 8 / 11g / 12c
+** Modelagem de dados com Oracle Data Modeler e Oracle Design
+** Proxy Apache
+** Certificado Digital
+** Oracle Exalogic
+** Oracle Cloud
 
 === Instituto Nacional de Propriedade Industrial (INPI) -- Rio de Janeiro, RJ
 ==== Desenvolvedor Java e PHP
 11/2012 - 03/2013
 
+* Portal INPI
+** PHP / MySQL e JQuery
+* Aplicação patentes
 * JavaEE com JSP
-* Website desenvolvido em PHP com MySQL
-* JQuery
 
 === PHCFoco -- Rio de Janeiro, RJ
 ==== Desenvolvedor PHP

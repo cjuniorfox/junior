@@ -31,7 +31,7 @@ Busco expandir meus conhecimentos e compartilhar experiências.
 ** Sustentação sistema Delphi legado
 ** Modelagem e implementação PL/SQL
 ** Implementação módulo Java para parcelamento de imposto IPVA 
-*** Backend: Spring JDBC. 
+*** Backend: Spring JDBC
 *** Frontend: JSF/ Primefaces)
 * *GCT - Gestor de Crédito Tributário*
 ** Sustentação sistema legado Java 6
@@ -39,17 +39,17 @@ Busco expandir meus conhecimentos e compartilhar experiências.
 *** JSP/netUI 
 *** JQuery e Ajax com DWR -- Directed Web Remoting
 *** Webservice SOAP 1.1
-*** Migração Arquitetura de Oracle Workshop para Maven.
-*** Migração backend para Spring JDBC.
-*** Sustentação e refatoração de código Oracle PL/SQL.
-** Modelagem nova versão (GCT 2.0) baseada em Domain Driver Design.
+*** Migração Arquitetura de Oracle Workshop para Maven
+*** Migração backend para Spring JDBC
+*** Sustentação e refatoração de código Oracle PL/SQL
+** Modelagem nova versão (GCT 2.0) baseada em Domain Driver Design
 ** Implementação nova versão (GCT 2.0) 
 *** Backend: Springboot 1.5.4 -- Spring JPA
 *** Serviços API Rest JSON com Codehaus Jackson
 *** Frontend com Angular 6. Bootstrap e PrimeNG
 ** Integração portal de pagamentos GNRE - Pernambuco (Guia recolhimentos estaduais) em SOAP 1.1
-** ETL de pagamentos bancários.
-** PL/SQL para controle repasses financeiros
+** ETL de pagamentos bancários
+** PL/SQL para controle de repasses financeiros
 ** Rotinas Shellscript integradas com Oracle SQLPlus e SQL*Loader
 ** Sustentação e manutenção de rotinas via Jenkins
 ** Integração contínua utilizando Jenkins e SVN e testes unitários
@@ -109,7 +109,7 @@ _Devido ao bom relacionamento que mantenho com meus antigos empregadores, contin
 ==== Desenvolvedor PHP
 01/2010 - 03/2010
 
-* Trabalhei no desenvolvimento de aplicação PHP para metricas de rede, como medição de velocidade, ping e teste de DNS reverso
+* Trabalhei no desenvolvimento de aplicação PHP para métricas de rede como, medição de velocidade, ping e teste de DNS reverso
 * Desenvolvimento de painel de gerênciamento VoIP
 
 === Allen Informática
@@ -133,7 +133,7 @@ _Devido ao bom relacionamento que mantenho com meus antigos empregadores, contin
 
 == Outras experiências
 
-Eu desenvolvi o framework PHP (jfox-php-framework) https://github.com/cjuniorfox/jfox-php-framework com objetivo de otimizar a performace de aplicações e facilitar seu desenvolvimento.
+Desenvolvi o framework PHP (jfox-php-framework) https://github.com/cjuniorfox/jfox-php-framework com objetivo de otimizar a performace de aplicações e facilitar seu desenvolvimento.
 
 Sites desenvolvidos com o framework:
 
@@ -163,7 +163,7 @@ Sites desenvolvidos com o framework:
 [%hardbreaks]
 https://github.com/cjuniorfox/jfox-php-framework
 
-=== Websites desenvolvidos atualmente em produção
+=== Websites desenvolvidos atualmente e em produção
 
 [%hardbreaks]
 http://www.lcm.com.br

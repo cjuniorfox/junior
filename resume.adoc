@@ -6,16 +6,92 @@ cjuniorfox@gmail.com
 Niterói, RJ - Brasil
 
 [%hardbreaks]
-IT Analyst, Java Developer. 
-Seek to expand my knoledge and share experiences.
+IT Analyst, Java Developer with strong experience on Java and PL / SQL. Delphi, C ++, TypeScript, Node / Javascript, CSharp experience. Knowledge on infrastructure and middleware. Docker and use of Linux experience. Knowledge on Arch, RHEL 7, CentOS and Debian Linux distributions.
+I have ease and will to learn new languages and tecnologies.
 
 :icons:  font
+
+== Formation
+
+=== CEDERJ University (UFF/UFRJ) -- Niterói, RJ
+==== Higher education into Computer Science
+2011 - 2014
+
+=== Sesc (Microsoft Technet) -- Rio de Janeiro, RJ
+==== C# Programming Course
+2008
+
+=== PUC-RJ -- Rio de Janeiro, RJ
+==== Boland Delphi Programming Course
+2002
+
+=== Colégio São Gonçalo -- São Gonçalo, RJ
+==== Technical High School in Data Processing
+2000 - 2002
 
 == Experience
 
 === Secretaria de Estado de Fazenda (SEFAZ-RJ) -- Rio de Janeiro, RJ
 ==== Java Developer
 04/2013 - present
+
+===== Projetos
+
+* *AIC (Tax evasion notice system)*
+** Legacy Delphi support
+** Delevopment of new legilation (Estate law 6.357/2012)
+** Development of federal's "More beneficent law"
+** PL/SQL Routines
+** Oracle SQL Database
+** Bank Remittance File Generation
+** Requirements Analysis and Survey
+* *State Revenue Debt Installment*
+** Legacy Delphi support
+** Modeling and PL/SQL development
+** Java application development for Car Taxes Revenue Debt Installment 
+*** Backend: Spring JDBC
+*** Frontend: JSF/ Primefaces)
+* *GCT - Gestor de Crédito Tributário*
+** Sustentação sistema legado Java 6
+*** Apache Beehive 
+*** JSP/netUI 
+*** JQuery e Ajax com DWR -- Directed Web Remoting
+*** Webservice SOAP 1.1
+*** Migração do projeto de Oracle Workshop para Maven
+*** Migração backend para Spring JDBC
+*** Sustentação e refatoração de código Oracle PL/SQL
+** Modelagem nova versão (GCT 2.0) baseada em Domain Driver Design
+** Implementação nova versão (GCT 2.0) 
+*** Backend: Springboot 1.5.4 -- Spring JPA
+*** Serviços API Rest JSON com Codehaus Jackson
+*** Frontend com Angular 6. Bootstrap e PrimeNG
+** Integração portal de pagamentos GNRE - Pernambuco (Guia recolhimentos estaduais) em SOAP 1.1
+** ETL de pagamentos bancários
+** PL/SQL para controle de repasses financeiros
+** Rotinas Shellscript integradas com Oracle SQLPlus e SQL*Loader
+** Sustentação e manutenção de rotinas via Jenkins
+** Integração contínua utilizando Jenkins e SVN e testes unitários
+** Servidor de aplicação
+*** GCT Legado: Weblogic 12c
+*** GCT 2.0: Weblogic 12 e JBoss EAP 7.1
+* *Fisco Fácil -- Sistema de Autorregularização fiscal*
+** Projeto Java e Oracle PL/SQL
+*** Frontend: JSF 2.2 e Primefaces 6.1
+*** Backend: Framework proprietário (Sefazwork) com Hibenate 5.0
+** Malhas fiscais
+*** Rotinas PL/SQL, ETL.
+*** Jobs Shellscript e uso de SQL*Loader e SQLPlus
+** Integração contínua em SVN e Jobs Jenkins com testes unitários
+* *SINCAD -- Sistema Estadual de Cadastro de Contribuíntes*
+** Java EE com JSF / RichFaces
+* Outras tecnologias
+** Red Hat Enterprise Linux 7
+** Middleware JBoss 6/ 7 e Weblogic 8 / 11g / 12c
+** Modelagem de dados com Oracle Data Modeler e Oracle Design
+** Proxy Apache
+** Certificado Digital
+** Oracle Exalogic
+** Oracle Cloud
 
 * JavaEE, Spring, Apache Beehive, JPA and Hibernate
 * JSP, JSF (Richfaces and Primefaces)
@@ -92,24 +168,6 @@ Sites developed with framework:
 
 * Editora Ciência Moderna http://www.lcm.com.br
 * MCA Estudio http://www.mcaestudio.com.br
-
-== Formation
-
-=== CEDERJ University (UFF/UFRJ) -- Niterói, RJ
-==== Higher education into Computer Science
-2011 - 2014
-
-=== Sesc (Microsoft Technet) -- Rio de Janeiro, RJ
-==== C# Programming Course
-2008
-
-=== PUC-RJ -- Rio de Janeiro, RJ
-==== Boland Delphi Programming Course
-2002
-
-=== Colégio São Gonçalo -- São Gonçalo, RJ
-==== Technical High School in Data Processing
-2000 - 2002
 
 === Example Codes
 

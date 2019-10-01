@@ -39,7 +39,7 @@ I have ease and will to learn new languages and tecnologies.
 
 * *AIC (Tax evasion notice system)*
 ** Legacy Delphi support
-** Delevopment of new legilation (Estate law 6.357/2012)
+** Delevopment of new legilation (Estate law 6,357/2012)
 ** Development of federal's "More beneficent law"
 ** PL/SQL Routines
 ** Oracle SQL Database

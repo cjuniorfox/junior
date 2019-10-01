@@ -3,7 +3,7 @@
 [%hardbreaks]
 cjuniorfox@gmail.com
 +55 (21) 99610-9042 / +55 (21) 3492-6877
-Niterói, RJ - Brasil
+Brazil - Niterói, RJ
 
 [%hardbreaks]
 IT Analyst, Java Developer with strong experience on Java and PL / SQL. Delphi, C ++, TypeScript, Node / Javascript, CSharp experience. Knowledge on infrastructure and middleware. Docker and use of Linux experience. Knowledge on Arch, RHEL 7, CentOS and Debian Linux distributions.

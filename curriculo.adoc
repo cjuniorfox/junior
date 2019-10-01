@@ -6,7 +6,7 @@ cjuniorfox@gmail.com
 Niterói, RJ - Brasil
 
 [%hardbreaks]
-Analista de Sistemas, Desenvolvedor com forte experiência em Java e Oracle PL/SQL. Tendo experiência também em Delphi, C++, TypeScript, Node/ Javascript, CSharp. Experiência também em infraestrutura e Middleware, com conhecimento em Docker, experiência em distribuições Linux baseadas em Arch, baseadas em RPM como RHEL e CentOS. Debian. 
+Analista de Sistemas, Desenvolvedor com forte experiência em Java e Oracle PL/SQL. Experiência em Delphi, C++, TypeScript, Node/ Javascript, CSharp. Conhecimento em infraestrutura e Middleware. Integração contínua em SVN e Git. Infraestrutura em Núvem, conhecimento em Docker, experiência em distribuições Linux Arch, RHEL7, CentOS e Debian. 
 Tenho facilidade e vontade de aprender novas linguagens e tecnologias.
 
 :icons:  font

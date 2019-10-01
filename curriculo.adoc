@@ -6,10 +6,28 @@ cjuniorfox@gmail.com
 Niterói, RJ - Brasil
 
 [%hardbreaks]
-Analista de Sistemas, Desenvolvedor Java.
-Busco expandir meus conhecimentos e compartilhar experiências.
+Analista de Sistemas, Desenvolvedor com forte experiência em Java e Oracle PL/SQL. Tendo experiência também em Delphi, C++, TypeScript, Node/ Javascript, CSharp. Experiência também em infraestrutura e Middleware, com conhecimento em Docker, experiência em distribuições Linux baseadas em Arch, baseadas em RPM como RHEL e CentOS. Debian. 
+Tenho facilidade e vontade de aprender novas linguagens e tecnologias.
 
 :icons:  font
+
+== Formação
+
+=== Universidade CEDERJ (UFF/UFRJ) -- Niterói, RJ
+==== Ensino superior em Ciência da Computação
+2011 - 2014
+
+=== Sesc (Microsoft Technet) -- Rio de Janeiro, RJ
+==== Curso de programação CSharp
+2008
+
+=== PUC-RJ -- Rio de Janeiro, RJ
+==== Curso de programação Boland Delphi
+2002
+
+=== Colégio São Gonçalo -- São Gonçalo, RJ
+==== Ensino médio profissionalizante em Processamento de Dados
+2000 - 2002
 
 == Experiência
 
@@ -139,24 +157,6 @@ Sites desenvolvidos com o framework:
 
 * Editora Ciência Moderna http://www.lcm.com.br
 * MCA Estudio http://www.mcaestudio.com.br
-
-== Formação
-
-=== Universidade CEDERJ (UFF/UFRJ) -- Niterói, RJ
-==== Ensino superior em Ciência da Computação
-2011 - 2014
-
-=== Sesc (Microsoft Technet) -- Rio de Janeiro, RJ
-==== Curso de programação C#
-2008
-
-=== PUC-RJ -- Rio de Janeiro, RJ
-==== Curso de programação Boland Delphi
-2002
-
-=== Colégio São Gonçalo -- São Gonçalo, RJ
-==== Ensino médio profissionalizante em Processamento de Dados
-2000 - 2002
 
 === Códigos de Exemplo
 

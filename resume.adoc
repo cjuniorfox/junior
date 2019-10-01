@@ -50,7 +50,7 @@ I have ease and will to learn new languages and tecnologies.
 ** Modeling and PL/SQL development
 ** Java application development for Car Taxes Revenue Debt Installment 
 *** Backend: Spring JDBC
-*** Frontend: JSF/ Primefaces)
+*** Frontend: JSF/ Primefaces
 * *GCT - Tax Credit Manager*
 ** Legacy Java 6 Apache Beehive Support
 *** JSP/netUI 

@@ -51,67 +51,55 @@ I have ease and will to learn new languages and tecnologies.
 ** Java application development for Car Taxes Revenue Debt Installment 
 *** Backend: Spring JDBC
 *** Frontend: JSF/ Primefaces)
-* *GCT - Gestor de Crédito Tributário*
-** Sustentação sistema legado Java 6
-*** Apache Beehive 
+* *GCT - Tax Credit Manager*
+** Legacy Java 6 Apache Beehive Support
 *** JSP/netUI 
-*** JQuery e Ajax com DWR -- Directed Web Remoting
-*** Webservice SOAP 1.1
-*** Migração do projeto de Oracle Workshop para Maven
-*** Migração backend para Spring JDBC
-*** Sustentação e refatoração de código Oracle PL/SQL
-** Modelagem nova versão (GCT 2.0) baseada em Domain Driver Design
+*** JQuery and Ajax with DWR -- Directed Web Remoting
+*** SOAP 1.1 Webservice
+*** Oracle Workshop to Maven migration
+*** Spring JDBC backend migration
+*** Oracle PL/SQL Support and code refactoring
+** New application (GCT 2.0) Domain Driver Design based modeling
 ** Implementação nova versão (GCT 2.0) 
-*** Backend: Springboot 1.5.4 -- Spring JPA
-*** Serviços API Rest JSON com Codehaus Jackson
-*** Frontend com Angular 6. Bootstrap e PrimeNG
-** Integração portal de pagamentos GNRE - Pernambuco (Guia recolhimentos estaduais) em SOAP 1.1
-** ETL de pagamentos bancários
-** PL/SQL para controle de repasses financeiros
-** Rotinas Shellscript integradas com Oracle SQLPlus e SQL*Loader
-** Sustentação e manutenção de rotinas via Jenkins
-** Integração contínua utilizando Jenkins e SVN e testes unitários
-** Servidor de aplicação
-*** GCT Legado: Weblogic 12c
-*** GCT 2.0: Weblogic 12 e JBoss EAP 7.1
-* *Fisco Fácil -- Sistema de Autorregularização fiscal*
-** Projeto Java e Oracle PL/SQL
+*** Springboot 1.5.4 -- Spring JPA
+*** Codehaus Jackson's API Rest JSON Services 
+*** Angular 6. Bootstrap and PrimeNG
+** SOAP 1.1 GNRE - Pernambuco Integration  (System of state fee payment issue)
+** ETL for Bank payments
+** PL/SQL for bank financial transfer
+** Oracle SQLPlus, SQL*Loader and Shell Script integration routines 
+** Jenkins job routines support
+** Continuous integration with Jenkins, SVN and JUnit testing
+** Application server
+*** Legacy GCT: Weblogic 12c
+*** GCT 2.0: Weblogic 12 and JBoss EAP 7.1
+* *Fisco Facil (Easy tax) -- Fiscal Self-Regulatory System*
+** Java and Oracle PL/SQL project
 *** Frontend: JSF 2.2 e Primefaces 6.1
-*** Backend: Framework proprietário (Sefazwork) com Hibenate 5.0
-** Malhas fiscais
-*** Rotinas PL/SQL, ETL.
-*** Jobs Shellscript e uso de SQL*Loader e SQLPlus
-** Integração contínua em SVN e Jobs Jenkins com testes unitários
-* *SINCAD -- Sistema Estadual de Cadastro de Contribuíntes*
-** Java EE com JSF / RichFaces
-* Outras tecnologias
+*** Backend: Sefaz Work (Company's proprietary framework) with Hibernate 5.0
+** Fiscal Mesh
+*** PL/SQL routines and ETL.
+*** Oracle SQLPlus, SQL*Loader and Shell Script integration routines 
+** Continuous integration with Jenkins, SVN and JUnit testing
+* *SINCAD -- State Business Registration System
+** Java EE with JSF and RichFaces
+* Other tecnologies
 ** Red Hat Enterprise Linux 7
-** Middleware JBoss 6/ 7 e Weblogic 8 / 11g / 12c
-** Modelagem de dados com Oracle Data Modeler e Oracle Design
-** Proxy Apache
-** Certificado Digital
+** JBoss 6/ 7 and Weblogic 8 / 11g / 12c middleware
+** Oracle Data Modeler e Oracle Design
+** Apache for proxy, SVN and Angular application server
+** Digital Certificate
 ** Oracle Exalogic
 ** Oracle Cloud
 
-* JavaEE, Spring, Apache Beehive, JPA and Hibernate
-* JSP, JSF (Richfaces and Primefaces)
-* Angular with Bootstrap and PrimeNG
-* API Rest with JSON
-* SOAP Web service
-* Oracle 11g database
-* PL/SQL development and data modeling 
-* TDD and DDD
-* Middleware administration
-** Oracle Weblogic
-** Red Hat JBoss EAP (6.2 and 7.0)
-
-=== Instituto Nacional de Propriedade Industrial (INPI) -- Rio de Janeiro, RJ
+=== INPI (Brazil's Patent and Trademark Office) -- Rio de Janeiro, RJ
 ==== Java and PHP Developer
 11/2012 - 03/2013
 
-* JavaEE with JSP
-* PHP based Website and MySQL
-* JQuery
+* INPI site
+** PHP based Website and MySQL
+* Patent and trademark application
+** JavaEE with JSP
 
 === PHCFoco -- Rio de Janeiro, RJ
 ==== PHP Developer
@@ -123,7 +111,7 @@ I have ease and will to learn new languages and tecnologies.
 * JQuery and JQueryUI
 * Use of https://github.com/cjuniorfox/jfox-php-framework[jfox-php-framework] into some system modules
 
-=== Editora Ciência Moderna
+=== Editora Ciência Moderna (Modern Science Publisher)
 ==== PHP Developer e Middleware manager
 05/2010 - present: 
 

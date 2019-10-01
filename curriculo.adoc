@@ -50,7 +50,7 @@ Tenho facilidade e vontade de aprender novas linguagens e tecnologias.
 ** Modelagem e implementação PL/SQL
 ** Implementação módulo Java para parcelamento de imposto IPVA 
 *** Backend: Spring JDBC
-*** Frontend: JSF/ Primefaces)
+*** Frontend: JSF/ Primefaces
 * *GCT - Gestor de Crédito Tributário*
 ** Sustentação sistema legado Java 6
 *** Apache Beehive 

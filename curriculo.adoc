@@ -6,24 +6,27 @@ cjuniorfox@gmail.com
 Niterói, RJ - Brasil
 
 [%hardbreaks]
-Analista de Sistemas, Desenvolvedor com forte experiência em Java e Oracle PL/SQL. Experiência em Delphi, C++, TypeScript, Node/ Javascript, CSharp. Conhecimento em infraestrutura e Middleware. Integração contínua em SVN e Git. Infraestrutura em Núvem, conhecimento em Docker, experiência em distribuições Linux Arch, RHEL7, CentOS e Debian. 
-Tenho facilidade e vontade de aprender novas linguagens e tecnologias.
+Analista de Sistemas, Desenvolvedor com experiência em Java, Oracle PL/SQL. Javascript, Node JS, Angular e MongoDB.
+Experiência em infraestrutura e Middleware. Versionamento de código fonte com SVN e Git. Integração contínua, Jenkins, AWS, Docker, administração Linux. 
+Proeficiencia na adoção de novas tecnologias.
+
+Git: link:[github.com/cjuniorfox/]
 
 :icons:  font
 
 == Formação
 
+=== UNIP EAD -- Niterói, RJ
+==== Superior técnico Análise e Desenvolvimento de sistemas
+2020
+
 === Universidade CEDERJ (UFF/UFRJ) -- Niterói, RJ
-==== Ensino superior em Ciência da Computação
+==== Superior em Ciência da Computação
 2011 - 2014
 
 === Sesc (Microsoft Technet) -- Rio de Janeiro, RJ
-==== Curso de programação CSharp
+==== Curso de desenvolvimento CSharp
 2008
-
-=== PUC-RJ -- Rio de Janeiro, RJ
-==== Curso de programação Boland Delphi
-2002
 
 === Colégio São Gonçalo -- São Gonçalo, RJ
 ==== Ensino médio profissionalizante em Processamento de Dados
@@ -32,66 +35,81 @@ Tenho facilidade e vontade de aprender novas linguagens e tecnologias.
 == Experiência
 
 === Secretaria de Estado de Fazenda (SEFAZ-RJ) -- Rio de Janeiro, RJ
-==== Desenvolvedor Java
-04/2013 - presente
+==== Analista de Sistemas Java e PL/SQL
+04/2013 - Presente
 
-===== Projetos
+==== Atribuições
+Análise e desenvolvimento de sistemas, análise de negócio, diagramação e modelagem de dados, levantamento de Requisitos.
 
-* *AIC (Sistema de gestão de autos de infração por sonegação fiscal)*
-** Sustentação sistema legado Delphi 7
-** Implementação nova legislação (lei estadual 6.357/2012)
-** Implementação lei mais benéfica federal
-** Rotinas PL/SQL
-** Banco de dados Oracle SQL
-** ETL e geração de arquivos de remessa
-** Análise e levantamento de requisitos
-* *Parcelamento de débitos fazendários*
-** Sustentação sistema Delphi legado
-** Modelagem e implementação PL/SQL
-** Implementação módulo Java para parcelamento de imposto IPVA 
-*** Backend: Spring JDBC
-*** Frontend: JSF/ Primefaces
-* *GCT - Gestor de Crédito Tributário*
-** Sustentação sistema legado Java 6
-*** Apache Beehive 
-*** JSP/netUI 
-*** JQuery e Ajax com DWR -- Directed Web Remoting
-*** Webservice SOAP 1.1
-*** Migração do projeto de Oracle Workshop para Maven
-*** Migração backend para Spring JDBC
-*** Sustentação e refatoração de código Oracle PL/SQL
-** Modelagem nova versão (GCT 2.0) baseada em Domain Driver Design
-** Implementação nova versão (GCT 2.0) 
-*** Backend: Springboot 1.5.4 -- Spring JPA
-*** Serviços API Rest JSON com Codehaus Jackson
-*** Frontend com Angular 6. Bootstrap e PrimeNG
-** Integração portal de pagamentos GNRE - Pernambuco (Guia recolhimentos estaduais) em SOAP 1.1
-** ETL de pagamentos bancários
-** PL/SQL para controle de repasses financeiros
-** Rotinas Shellscript integradas com Oracle SQLPlus e SQL*Loader
-** Sustentação e manutenção de rotinas via Jenkins
-** Integração contínua utilizando Jenkins e SVN e testes unitários
-** Servidor de aplicação
-*** GCT Legado: Weblogic 12c
-*** GCT 2.0: Weblogic 12 e JBoss EAP 7.1
-* *Fisco Fácil -- Sistema de Autorregularização fiscal*
-** Projeto Java e Oracle PL/SQL
-*** Frontend: JSF 2.2 e Primefaces 6.1
-*** Backend: Framework proprietário (Sefazwork) com Hibenate 5.0
-** Malhas fiscais
-*** Rotinas PL/SQL, ETL.
-*** Jobs Shellscript e uso de SQL*Loader e SQLPlus
-** Integração contínua em SVN e Jobs Jenkins com testes unitários
-* *SINCAD -- Sistema Estadual de Cadastro de Contribuíntes*
-** Java EE com JSF / RichFaces
-* Outras tecnologias
-** Red Hat Enterprise Linux 7
-** Middleware JBoss 6/ 7 e Weblogic 8 / 11g / 12c
-** Modelagem de dados com Oracle Data Modeler e Oracle Design
-** Proxy Apache
-** Certificado Digital
-** Oracle Exalogic
-** Oracle Cloud
+==== Tecnologias
+* Java
+* JSF e Angular
+* Spring Boot
+* Serviços JSON/REST e SOAP
+* Middleware (EAP 7.1 e Oracle Weblogic 12c)
+* Banco de dados Oracle e PLSQL
+* Versionamento SVN e GIT
+* Integração Contínua
+* Testes unitários JUnit / Jacoco
+* Administração Linux
+
+==== Principais projetos
+
+===== *Serviço de Gestão Tributária*
+
+Controle do Crédito Tributário Estadual. Gestão de débitos do contribuinte. Emissão de Documentos de Arrecadação do tipo GNRE. Modelo de negócio em DDD *Domain Driven Design*.
+A solução disponibiliza endpoints JSON/REST para integrações com sistemas corporativos da SEFAZ e endpoint SOAP 1.1 para integração com Portal GNRE Nacional. link:[www.gnre.pe.gov.br/gnre].
+
+* Spring Boot
+* Webservice SOAP 1.1
+* Integração com sistemas de importação
+* JSON/REST
+* Integração contínua, Testes Unitários
+* UML, Modelo de dados, Diagrama de fluxo de processo BPMN
+* Banco de dados Relacional Oracle
+* PL/SQL
+* Apache
+* Weblogic 12c e JBoss EAP 7.1
+
+===== *GCT -- Emissão e processamento de documento de arrecadação do tipo DARJ*
+
+Sistema de processamento e emissão de arrecadação do tipo DARJ e GNRE legado. Processamento de remessas bancárias e vinculação de pagamentos. link:[www1.fazenda.rj.gov.br/projetoGCTBradesco]
+
+* Spring Boot
+* JSP
+* Carga de dados e ETL em PL/SQL
+* Integrações com sistemas corporativos via banco de dados
+* Webservice SOAP
+
+===== *Fisco Fácil -- Sistema de Autorregularização Fiscal*
+
+Automatização e autorregularização fiscal do crédito tributário, facilitando a auditoria fiscal. Carga e cruzamento de malhas fiscais do contribuinte.
+Aplicação com Frontend JSF e integrações com sistemas corporativos em JSON/REST.
+
+Tecnologias
+
+* Java EE
+* Java Servlet Faces (JSF)
+* Cliente e serviços JSON/REST
+* Banco de dados Relacional Oracle
+* Jobs Jenkins para carga e ETL de dados. SQL Loader e SQLPlus
+* Integração contínua em SVN e Jobs Jenkins com testes unitários
+
+*SINCAD -- Sistema Estadual de Cadastro de Contribuíntes*
+
+Desenvolvimento de serviço para solução corporativa para cadastro e controle de contribuíntes estadual.
+
+* Spring Boot
+* Spring Data Rest
+* Integração contínua
+
+*Refiz Parcelamento IPVA*
+
+Emissão de documentos de arrecadação de parcelamento IPVA renegociados por Refiz. link:[www1.fazenda.rj.gov.br/parcelamentoipva/]
+
+* Integração com sistemas corporativos via banco de dados em PL/SQL
+* Spring Boot
+* Java Servlet Faces (JSF)
 
 === Instituto Nacional de Propriedade Industrial (INPI) -- Rio de Janeiro, RJ
 ==== Desenvolvedor Java e PHP
@@ -99,42 +117,43 @@ Tenho facilidade e vontade de aprender novas linguagens e tecnologias.
 
 * Portal INPI
 ** PHP / MySQL e JQuery
-* Aplicação patentes
 * JavaEE com JSP
 
 === PHCFoco -- Rio de Janeiro, RJ
 ==== Desenvolvedor PHP
-02/2011 - 12-2011
+02/2011 - 12/2011
 
-* Regime de Home Office
-* Trabalhei no desenvolvimento de sistema de pesquisa na área de saúde ambiental
+Home Office. Publicador de dados e pesquisa de análise setorial. Saúde ambiental e controle de pragas.
+
 * PHP 5 e MySQL
 * JQuery e JQueryUI
 * Use do https://github.com/cjuniorfox/jfox-php-framework[jfox-php-framework] em alguns módulos do sistema
 
 === Editora Ciência Moderna
 ==== Desenvolvedor PHP e Administrador Middleware
-05/2010 - presente
+05/2010 - 01/2011
 
-* Administração de Content Server (Adobe® CS) e middleware Tomcat
-* Desenolvimento de aplicação E-commerce
-* Desenvolvimento do site http://www.lcm.com.br
-* Use do framework https://github.com/cjuniorfox/jfox-php-framework[jfox-php-framework] no desenvolvimento do site e alguns módulos administrativos
+* Content Server (Adobe® CS)
+* Tomcat
+* Aplicação E-commerce 
+* Portal da editora http://www.lcm.com.br
+Foi utilizado o framework https://github.com/cjuniorfox/jfox-php-framework[jfox-php-framework] no desenvolvimento do site e alguns módulos administrativos
 
-_Devido ao bom relacionamento que mantenho com meus antigos empregadores, continuo responsável pela manutenção tanto do site quando Content Server_
+_Devido ao bom relacionamento que mantenho com meus antigos empregadores, sigo responsável pela manutenção do site e do Content Server_
 
 === Datacorpore
 ==== Desenvolvedor PHP
 01/2010 - 03/2010
 
-* Trabalhei no desenvolvimento de aplicação PHP para métricas de rede como, medição de velocidade, ping e teste de DNS reverso
+* Desenvolvimento de aplicação PHP para métricas de rede como, medição de velocidade, ping e teste de DNS reverso.
 * Desenvolvimento de painel de gerênciamento VoIP
 
 === Allen Informática
 ==== Técnico em Service Desk
 03/2007 - 12/2009
 
-* Assistência a empresas voltadas para área de educação (PUC-RJ e Cultura Inglesa)
+Assistência a empresas voltadas para área de educação (PUC-RJ e Cultura Inglesa)
+
 * Assistência a afiliada brasileira da gravadora Sony Music
 * Suporte ao usuário de 3º e 2º nível
 * Coordenador de equipe de 2º nível de service desk
@@ -142,16 +161,11 @@ _Devido ao bom relacionamento que mantenho com meus antigos empregadores, contin
 * Administração de Windows Server 2003 (Domain e Active Directory)
 * Automatização de processo de atualização de material didático
 
-=== Sergio Ronaldo Fotografias
-==== Designer, Webdesigner e manutenção de computadores
-03/2005 - 11/2006
-
-* Designer com Photoshop e Corel Draw
-* Administrador de servidor de arquivos e content Server
-
 == Outras experiências
 
-Desenvolvi o framework PHP (jfox-php-framework) https://github.com/cjuniorfox/jfox-php-framework com objetivo de otimizar a performace de aplicações e facilitar seu desenvolvimento.
+Angular 8 e MongoDB
+
+Framework PHP (jfox-php-framework) https://github.com/cjuniorfox/jfox-php-framework com objetivo de otimizar a performace de aplicações e facilitar seu desenvolvimento.
 
 Sites desenvolvidos com o framework:
 
@@ -160,11 +174,19 @@ Sites desenvolvidos com o framework:
 
 === Códigos de Exemplo
 
+Angular
 [%hardbreaks]
+https://github.com/cjuniorfox/car-manager-angular/
+
+[%hardbreaks]
+Node.JS
+https://github.com/cjuniorfox/car-manager-nodejs/
+
+[%hardbreaks]
+PHP
 https://github.com/cjuniorfox/jfox-php-framework
 
-=== Websites desenvolvidos atualmente e em produção
-
 [%hardbreaks]
-http://www.lcm.com.br
-http://www.mcaestudio.com.br
+Linux / SH
+https://github.com/cjuniorfox/archraid
+

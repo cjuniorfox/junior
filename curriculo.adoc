@@ -6,11 +6,11 @@ cjuniorfox@gmail.com
 Niterói, RJ - Brasil
 
 [%hardbreaks]
-Analista de Sistemas, Desenvolvedor com experiência em Java, Oracle PL/SQL. Javascript, Node JS, Angular e MongoDB.
+Analista de Sistemas. Desenvolvedor com experiência em Java, Oracle PL/SQL, Javascript, Node JS, Angular e MongoDB.
 Experiência em infraestrutura e Middleware. Versionamento de código fonte com SVN e Git. Integração contínua, Jenkins, AWS, Docker, administração Linux. 
 Proeficiencia na adoção de novas tecnologias.
 
-Git: link:[github.com/cjuniorfox/]
+github: link:[github.com/cjuniorfox/]
 
 :icons:  font
 

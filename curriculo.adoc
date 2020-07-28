@@ -116,7 +116,7 @@ Emissão de documentos de arrecadação de parcelamento IPVA renegociados por Re
 11/2012 - 03/2013
 
 * Portal INPI
-** PHP / MySQL e JQuery
+* PHP / MySQL e JQuery
 * JavaEE com JSP
 
 === PHCFoco -- Rio de Janeiro, RJ

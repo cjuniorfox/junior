@@ -2,8 +2,8 @@
 
 [%hardbreaks]
 cjuniorfox@gmail.com
-+55 (21) 99610-9042 / +55 (21) 3492-6877
-Niterói, RJ - Brasil
++55 (21) 99610-9042
+Nova Friburgo, RJ - Brasil
 
 [%hardbreaks]
 Analista de Sistemas. Desenvolvedor com experiência em Java, Oracle PL/SQL, Javascript, Node JS, Angular e MongoDB.
@@ -16,9 +16,14 @@ github: link:[github.com/cjuniorfox/]
 
 == Formação
 
-=== UNIP EAD -- Niterói, RJ
+=== UNIP EAD -- São Paulo, SP
 ==== Superior técnico Análise e Desenvolvimento de sistemas
 2020 - 2021
+
+=== Certificação Associate Cloud Engineer, Google Cloud -- São Paulo, SP
+https://www.credential.net/fb190437-d2a7-47b8-8ae5-44b3dabf3c12
+
+O Associate Cloud Engineer realiza o deploy de aplicações, monitora operações e gerencia soluções empresariais. Pode utilizar o Google Cloud via CLI para realização de tarefas gerais na sustentação de um ou várias soluções que se beneficiam de serviços, tanto gerenciados pelo Google quanto serviços gerenciados pelo cliente no Google Cloud. 
 
 === Universidade CEDERJ (UFF/UFRJ) -- Niterói, RJ
 ==== Superior em Ciência da Computação
@@ -34,9 +39,49 @@ github: link:[github.com/cjuniorfox/]
 
 == Experiência
 
+=== GFT Tecnologies SE
+==== Analista desenvolvedor Java, PL/SQL e Linux -- Barueri, SP
+01/2021 - Atualidade
+
+==== Atribuições
+Desenvolvimento e sustentação dos frameworks dos sistemas B3 - Balcão.
+
+==== Tecnologias
+* Java
+* Bancos de dados PL/SQL
+* Middleware (Oracle Weblogic 12c e 11g)
+* Serviços JSON/REST e SOAP
+* Mensageria Oracle e IBM
+* Bitbucket (GIT)
+* Testes unitários JUnit
+* Administração Solaris / Linux / Windows Server
+
+==== Principais projetos
+
+===== *Framework NoMe (B3/Cetip)*
+
+Base para sistemas para Cetip/Balcão
+Solução se trata de um framework multifuncional que tem como objetivo facilitar, integrar e padronizar módulos e sistemas relacionados ao Balcão.
+
+* Oracle
+* PL/SOL
+* Webservices
+* JSON/REST
+* Banco de dados Oracle
+
+===== *Mensageria MM (B3/Cetip)*
+
+Sistema de apoio ao balcão para enfilerar, validar e integrar as aplicações Balcão com as empresas participantes
+
+* Mensageira IBM MQ
+* Mensageria Oracle
+* Java 7 / 8
+* Oracle
+* PS-SQL
+
 === Secretaria de Estado de Fazenda (SEFAZ-RJ) -- Rio de Janeiro, RJ
 ==== Analista de Sistemas Java e PL/SQL
-04/2013 - Presente
+04/2013 - 01/2021
 
 ==== Atribuições
 Análise e desenvolvimento de sistemas, análise de negócio, diagramação e modelagem de dados, levantamento de Requisitos.
